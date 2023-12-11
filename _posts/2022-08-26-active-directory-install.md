@@ -12,7 +12,6 @@ tags:
 ---
 Today I will be going over my Windows Server installation. I will be using this as my domain controller by setting up Active Directory along with DNS for my local systems.
 
-
 ## Proxmox setup
 ---
 1. To start it all off we will need the ISO for our install.
@@ -43,7 +42,7 @@ Today I will be going over my Windows Server installation. I will be using this 
 	10. Discard: check mark
 	11. Cores: 2 (this is all i needed)
 	12. Memory: 4096 (again all i needed)
-	13. Bridge: vmbr1 (this is my bridge for my [Pfsense]() install within Proxmox.)
+	13. Bridge: vmbr1 (this is my bridge for my [Pfsense](https://xxkaitonakamuraxx.github.io/posts/pfsense-install/) install within Proxmox.)
 4. Another thing we will need to do if installing on Proxmox is the virtio ISO drivers. this will improve compatibility and performance of windows when virtualized.
 5. Download the virtio drivers [here](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso).
 	1. Upload the ISO to Proxmox.
