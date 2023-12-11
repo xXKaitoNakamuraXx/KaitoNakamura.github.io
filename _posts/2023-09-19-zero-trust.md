@@ -112,7 +112,7 @@ This is where you determine who can access the resource. By default, you'll have
 **Step 12: Congratulations**
 
 Congratulations! You've successfully added your first resource. If you ever need to review the details of the resource, simply click on it to view the associated information. 
-![](/assets/images/twingate/twingate15.png)![](//assets/images/twingate/twingate16.png)
+![](/assets/images/twingate/twingate15.png)![](/assets/images/twingate/twingate16.png)
 
 **Connecting to Twingate**
 
@@ -139,4 +139,3 @@ Once you've completed the setup, you'll have remote access to your resources!
 There are numerous other aspects to fine-tune in order to achieve a higher level of control over a user's connection, as well as to implement more secure methods for configuring your services and servers. Feel free to dive into the rabbit hole and play around customizing your security!
 
 Thank you for reading, and I hope you found this guide helpful. Feel free to stop by for more useful information!
-
