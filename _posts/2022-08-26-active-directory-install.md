@@ -2,14 +2,12 @@
 title: Windows Server 2019 Install
 date: 2022-08-26 12:00:00 -0700
 categories:
-	- homelab
-	- software
+  - homelab
+  - software
 tags:
-	- windows
-	- active-directory
-	- dns
+  - windows
+  - active-directory
 ---
-
 # Active Directory Install
 ---
 Today I will be going over my Windows Server installation. I will be using this as my domain controller by setting up Active Directory along with DNS for my local systems.
