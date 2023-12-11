@@ -96,7 +96,7 @@ We can see a few interesting files we might want to check out:
 
 browsing to the first, we see a page that displays a directory tree we can access.
 
-![](assets/images/vulnhub/momentum2/owls.png)
+![](/assets/images/vulnhub/momentum2/owls.png)
 
 Browsing to the second, we see an uploads page.
 
